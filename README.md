@@ -1,4 +1,3 @@
-# task1
 ### Goal : <br> 
 Develop a code that can clean this dataset and extract Technical (Hard) skills. <br>
 ### steps: <br>
